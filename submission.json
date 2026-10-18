@@ -1,0 +1,16 @@
+{
+  "testAccounts": {
+    "tenantA_Admin": {
+      "email": "adminA@example.com",
+      "password": "secret123"
+    },
+    "tenantA_Agent": {
+      "email": "agentA@example.com",
+      "password": "secret123"
+    },
+    "tenantB_Admin": {
+      "email": "adminB@example.com",
+      "password": "secret123"
+    }
+  }
+}
